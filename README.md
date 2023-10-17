@@ -1,5 +1,5 @@
 
- [LinkedIn](https://www.linkedin.com/in/silky1708/) | [Website](https://silky1708.github.io/silkysingh) | [Email](mailto:silky1708@gmail.com)
+ [LinkedIn](https://www.linkedin.com/in/silky1708/) | [Website](https://silky1708.github.io) | [Email](mailto:silky1708@gmail.com)
 
 <!--
 **silky1708/silky1708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
